@@ -60,12 +60,6 @@ npm run dev
 
 ---
 
-## 📸 Preview
-
-> Upload a screenshot or link here (optional)
-
----
-
 ## ✍️ Author
 
 **Preetham T R**
@@ -73,13 +67,4 @@ GitHub: [@Preethamtr18](https://github.com/Preethamtr18)
 
 ---
 
-## 📃 License
 
-MIT License
-
-```
-
----
-
-Let me know if you want a **one-liner project description** for your resume or portfolio site too.
-```
