@@ -23,7 +23,6 @@ A web application that uses **Google Gemini AI** to review source code intellige
 - **Frontend:** React, Vite  
 - **Backend:** Node.js, Express  
 - **AI:** Gemini API (Google)  
-- **Extras:** dotenv, axios, highlight.js
 
 ---
 
